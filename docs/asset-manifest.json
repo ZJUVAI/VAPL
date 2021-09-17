@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/VAPL/static/css/main.f3d4800b.chunk.css",
-    "main.js": "/VAPL/static/js/main.988020f1.chunk.js",
-    "main.js.map": "/VAPL/static/js/main.988020f1.chunk.js.map",
+    "main.css": "/VAPL/static/css/main.5332ea55.chunk.css",
+    "main.js": "/VAPL/static/js/main.cd1750f5.chunk.js",
+    "main.js.map": "/VAPL/static/js/main.cd1750f5.chunk.js.map",
     "runtime-main.js": "/VAPL/static/js/runtime-main.f310dd56.js",
     "runtime-main.js.map": "/VAPL/static/js/runtime-main.f310dd56.js.map",
-    "static/js/2.f786434a.chunk.js": "/VAPL/static/js/2.f786434a.chunk.js",
-    "static/js/2.f786434a.chunk.js.map": "/VAPL/static/js/2.f786434a.chunk.js.map",
+    "static/js/2.4a29c4f0.chunk.js": "/VAPL/static/js/2.4a29c4f0.chunk.js",
+    "static/js/2.4a29c4f0.chunk.js.map": "/VAPL/static/js/2.4a29c4f0.chunk.js.map",
     "static/js/3.41a44274.chunk.js": "/VAPL/static/js/3.41a44274.chunk.js",
     "static/js/3.41a44274.chunk.js.map": "/VAPL/static/js/3.41a44274.chunk.js.map",
     "index.html": "/VAPL/index.html",
-    "static/css/main.f3d4800b.chunk.css.map": "/VAPL/static/css/main.f3d4800b.chunk.css.map",
-    "static/js/2.f786434a.chunk.js.LICENSE.txt": "/VAPL/static/js/2.f786434a.chunk.js.LICENSE.txt",
+    "static/css/main.5332ea55.chunk.css.map": "/VAPL/static/css/main.5332ea55.chunk.css.map",
+    "static/js/2.4a29c4f0.chunk.js.LICENSE.txt": "/VAPL/static/js/2.4a29c4f0.chunk.js.LICENSE.txt",
     "static/media/backAllDark.b40d3e39.svg": "/VAPL/static/media/backAllDark.b40d3e39.svg",
     "static/media/backAllLight.0af11755.svg": "/VAPL/static/media/backAllLight.0af11755.svg",
     "static/media/icon1.c3c63206.svg": "/VAPL/static/media/icon1.c3c63206.svg",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f310dd56.js",
-    "static/js/2.f786434a.chunk.js",
-    "static/css/main.f3d4800b.chunk.css",
-    "static/js/main.988020f1.chunk.js"
+    "static/js/2.4a29c4f0.chunk.js",
+    "static/css/main.5332ea55.chunk.css",
+    "static/js/main.cd1750f5.chunk.js"
   ]
 }
