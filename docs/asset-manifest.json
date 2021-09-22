@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/VAPL/static/css/main.cdef7431.chunk.css",
-    "main.js": "/VAPL/static/js/main.264cf05e.chunk.js",
-    "main.js.map": "/VAPL/static/js/main.264cf05e.chunk.js.map",
+    "main.css": "/VAPL/static/css/main.87159132.chunk.css",
+    "main.js": "/VAPL/static/js/main.598e5c98.chunk.js",
+    "main.js.map": "/VAPL/static/js/main.598e5c98.chunk.js.map",
     "runtime-main.js": "/VAPL/static/js/runtime-main.09efcb0b.js",
     "runtime-main.js.map": "/VAPL/static/js/runtime-main.09efcb0b.js.map",
     "static/css/2.54a01395.chunk.css": "/VAPL/static/css/2.54a01395.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.c01368ca.chunk.js.map": "/VAPL/static/js/3.c01368ca.chunk.js.map",
     "index.html": "/VAPL/index.html",
     "static/css/2.54a01395.chunk.css.map": "/VAPL/static/css/2.54a01395.chunk.css.map",
-    "static/css/main.cdef7431.chunk.css.map": "/VAPL/static/css/main.cdef7431.chunk.css.map",
+    "static/css/main.87159132.chunk.css.map": "/VAPL/static/css/main.87159132.chunk.css.map",
     "static/js/2.003606fe.chunk.js.LICENSE.txt": "/VAPL/static/js/2.003606fe.chunk.js.LICENSE.txt",
     "static/media/icon2.c3c63206.svg": "/VAPL/static/media/icon2.c3c63206.svg",
     "static/media/info.418cedcd.svg": "/VAPL/static/media/info.418cedcd.svg",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.09efcb0b.js",
     "static/css/2.54a01395.chunk.css",
     "static/js/2.003606fe.chunk.js",
-    "static/css/main.cdef7431.chunk.css",
-    "static/js/main.264cf05e.chunk.js"
+    "static/css/main.87159132.chunk.css",
+    "static/js/main.598e5c98.chunk.js"
   ]
 }
