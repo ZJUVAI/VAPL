@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/VAPL/static/css/main.f87490fc.chunk.css",
-    "main.js": "/VAPL/static/js/main.fc84d859.chunk.js",
-    "main.js.map": "/VAPL/static/js/main.fc84d859.chunk.js.map",
-    "runtime-main.js": "/VAPL/static/js/runtime-main.09efcb0b.js",
-    "runtime-main.js.map": "/VAPL/static/js/runtime-main.09efcb0b.js.map",
+    "main.css": "/VAPL/static/css/main.e0d25bce.chunk.css",
+    "main.js": "/VAPL/static/js/main.5fd543a8.chunk.js",
+    "main.js.map": "/VAPL/static/js/main.5fd543a8.chunk.js.map",
+    "runtime-main.js": "/VAPL/static/js/runtime-main.08787ac1.js",
+    "runtime-main.js.map": "/VAPL/static/js/runtime-main.08787ac1.js.map",
     "static/css/2.54a01395.chunk.css": "/VAPL/static/css/2.54a01395.chunk.css",
-    "static/js/2.f0e33232.chunk.js": "/VAPL/static/js/2.f0e33232.chunk.js",
-    "static/js/2.f0e33232.chunk.js.map": "/VAPL/static/js/2.f0e33232.chunk.js.map",
-    "static/js/3.c01368ca.chunk.js": "/VAPL/static/js/3.c01368ca.chunk.js",
-    "static/js/3.c01368ca.chunk.js.map": "/VAPL/static/js/3.c01368ca.chunk.js.map",
+    "static/js/2.4c9d6cdf.chunk.js": "/VAPL/static/js/2.4c9d6cdf.chunk.js",
+    "static/js/2.4c9d6cdf.chunk.js.map": "/VAPL/static/js/2.4c9d6cdf.chunk.js.map",
+    "static/js/3.a2c8a319.chunk.js": "/VAPL/static/js/3.a2c8a319.chunk.js",
+    "static/js/3.a2c8a319.chunk.js.map": "/VAPL/static/js/3.a2c8a319.chunk.js.map",
     "index.html": "/VAPL/index.html",
     "static/css/2.54a01395.chunk.css.map": "/VAPL/static/css/2.54a01395.chunk.css.map",
-    "static/css/main.f87490fc.chunk.css.map": "/VAPL/static/css/main.f87490fc.chunk.css.map",
-    "static/js/2.f0e33232.chunk.js.LICENSE.txt": "/VAPL/static/js/2.f0e33232.chunk.js.LICENSE.txt",
+    "static/css/main.e0d25bce.chunk.css.map": "/VAPL/static/css/main.e0d25bce.chunk.css.map",
+    "static/js/2.4c9d6cdf.chunk.js.LICENSE.txt": "/VAPL/static/js/2.4c9d6cdf.chunk.js.LICENSE.txt",
     "static/media/icon2.c3c63206.svg": "/VAPL/static/media/icon2.c3c63206.svg",
     "static/media/info.418cedcd.svg": "/VAPL/static/media/info.418cedcd.svg",
     "static/media/intLegend1.836ad3c4.svg": "/VAPL/static/media/intLegend1.836ad3c4.svg",
@@ -22,6 +22,8 @@
     "static/media/intLegend4.160d8537.svg": "/VAPL/static/media/intLegend4.160d8537.svg",
     "static/media/intMark1.e715f7c2.svg": "/VAPL/static/media/intMark1.e715f7c2.svg",
     "static/media/intMark2.f963dd7f.svg": "/VAPL/static/media/intMark2.f963dd7f.svg",
+    "static/media/jiazai.011f5474.svg": "/VAPL/static/media/jiazai.011f5474.svg",
+    "static/media/kaishi.7b3d9938.svg": "/VAPL/static/media/kaishi.7b3d9938.svg",
     "static/media/kaishi1.7a08fbf8.svg": "/VAPL/static/media/kaishi1.7a08fbf8.svg",
     "static/media/kaishi2.c2674428.svg": "/VAPL/static/media/kaishi2.c2674428.svg",
     "static/media/logo.afd13c96.svg": "/VAPL/static/media/logo.afd13c96.svg",
@@ -31,13 +33,15 @@
     "static/media/stepBackLight.d6c0cb2a.svg": "/VAPL/static/media/stepBackLight.d6c0cb2a.svg",
     "static/media/stepDark.4b3318fe.svg": "/VAPL/static/media/stepDark.4b3318fe.svg",
     "static/media/stepLight.1342c687.svg": "/VAPL/static/media/stepLight.1342c687.svg",
-    "static/media/timelineLegend.6f5aabd8.svg": "/VAPL/static/media/timelineLegend.6f5aabd8.svg"
+    "static/media/timelineLegend.6f5aabd8.svg": "/VAPL/static/media/timelineLegend.6f5aabd8.svg",
+    "static/media/xiazai.bb4b9ef1.svg": "/VAPL/static/media/xiazai.bb4b9ef1.svg",
+    "static/media/zanting.6824d542.svg": "/VAPL/static/media/zanting.6824d542.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.09efcb0b.js",
+    "static/js/runtime-main.08787ac1.js",
     "static/css/2.54a01395.chunk.css",
-    "static/js/2.f0e33232.chunk.js",
-    "static/css/main.f87490fc.chunk.css",
-    "static/js/main.fc84d859.chunk.js"
+    "static/js/2.4c9d6cdf.chunk.js",
+    "static/css/main.e0d25bce.chunk.css",
+    "static/js/main.5fd543a8.chunk.js"
   ]
 }
