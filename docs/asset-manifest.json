@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/VAPL/static/css/main.565f04b1.chunk.css",
-    "main.js": "/VAPL/static/js/main.8964d117.chunk.js",
-    "main.js.map": "/VAPL/static/js/main.8964d117.chunk.js.map",
-    "runtime-main.js": "/VAPL/static/js/runtime-main.3fb239b5.js",
-    "runtime-main.js.map": "/VAPL/static/js/runtime-main.3fb239b5.js.map",
+    "main.js": "/VAPL/static/js/main.365a3907.chunk.js",
+    "main.js.map": "/VAPL/static/js/main.365a3907.chunk.js.map",
+    "runtime-main.js": "/VAPL/static/js/runtime-main.51999345.js",
+    "runtime-main.js.map": "/VAPL/static/js/runtime-main.51999345.js.map",
     "static/css/2.54a01395.chunk.css": "/VAPL/static/css/2.54a01395.chunk.css",
-    "static/js/2.3a008bbe.chunk.js": "/VAPL/static/js/2.3a008bbe.chunk.js",
-    "static/js/2.3a008bbe.chunk.js.map": "/VAPL/static/js/2.3a008bbe.chunk.js.map",
-    "static/js/3.88db224a.chunk.js": "/VAPL/static/js/3.88db224a.chunk.js",
-    "static/js/3.88db224a.chunk.js.map": "/VAPL/static/js/3.88db224a.chunk.js.map",
+    "static/js/2.afd827e0.chunk.js": "/VAPL/static/js/2.afd827e0.chunk.js",
+    "static/js/2.afd827e0.chunk.js.map": "/VAPL/static/js/2.afd827e0.chunk.js.map",
+    "static/js/3.a3223bce.chunk.js": "/VAPL/static/js/3.a3223bce.chunk.js",
+    "static/js/3.a3223bce.chunk.js.map": "/VAPL/static/js/3.a3223bce.chunk.js.map",
     "index.html": "/VAPL/index.html",
     "static/css/2.54a01395.chunk.css.map": "/VAPL/static/css/2.54a01395.chunk.css.map",
     "static/css/main.565f04b1.chunk.css.map": "/VAPL/static/css/main.565f04b1.chunk.css.map",
-    "static/js/2.3a008bbe.chunk.js.LICENSE.txt": "/VAPL/static/js/2.3a008bbe.chunk.js.LICENSE.txt",
+    "static/js/2.afd827e0.chunk.js.LICENSE.txt": "/VAPL/static/js/2.afd827e0.chunk.js.LICENSE.txt",
     "static/media/backAllDark.0def78fe.svg": "/VAPL/static/media/backAllDark.0def78fe.svg",
     "static/media/backAllLight.92877a66.svg": "/VAPL/static/media/backAllLight.92877a66.svg",
     "static/media/icon2.be04ef97.svg": "/VAPL/static/media/icon2.be04ef97.svg",
@@ -42,10 +42,10 @@
     "static/media/zanting.6824d542.svg": "/VAPL/static/media/zanting.6824d542.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3fb239b5.js",
+    "static/js/runtime-main.51999345.js",
     "static/css/2.54a01395.chunk.css",
-    "static/js/2.3a008bbe.chunk.js",
+    "static/js/2.afd827e0.chunk.js",
     "static/css/main.565f04b1.chunk.css",
-    "static/js/main.8964d117.chunk.js"
+    "static/js/main.365a3907.chunk.js"
   ]
 }
